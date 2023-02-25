@@ -25,7 +25,7 @@ class MainActivity : AppCompatActivity() {
                 }
 
                 R.id.menu_user -> {
-                    binding.textNormal.text="User"
+                    binding.textNormal.text="User Profile"
                 }
 
                 R.id.menu_notification -> {
